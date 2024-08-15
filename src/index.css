@@ -21,7 +21,7 @@ body {
 
 @font-face {
   font-family: 'HSSanTokki20-Regular';
-  src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2405@1.0/HSSanTokki20-Regular.woff2') format('woff2');
+  src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/noonfonts_two@1.0/NotoSerifKR.woff') format('woff');
   font-weight: normal;
   font-style: normal;
 }
