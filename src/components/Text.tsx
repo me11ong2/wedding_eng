@@ -4,7 +4,7 @@ export const Heading1 = styled.p`
   font-family: HSSanTokki20-Regular, serif;
   font-size: 1.5rem;
   margin: 10px;
-  color: #e88ca6;
+  color: #488248;
   white-space: pre-line;
 `;
 
@@ -18,7 +18,7 @@ export const PointTitle = styled.p`
   font-family: HSSanTokki20-Regular, serif;
   line-height: 1;
   margin: 0;
-  color: #e88ca6;
+  color: #488248;
   white-space: pre-line;
 `;
 

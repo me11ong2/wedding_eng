@@ -1,19 +1,19 @@
 {
   "greeting": {
-    "title": "Che-Wei Chang & 홍운정\n결혼합니다!",
+    "title": "장철유 & 홍운정\n결혼합니다!",
     "message": "저희 결혼합니다.\n타지에서 학업에 정진하던 두사람\n믿음과 신뢰로 맺은 인연으로\n결혼의 결실을 맺고자 합니다.",
     "host": {
       "groom": {
-        "name": "Che-Wei Chang",
+        "name": "장철유",
         "relation": "아들",
         "parents": [
           {
             "relation": "아버지",
-            "name": "장아빠"
+            "name": "장철유"
           },
           {
             "relation": "어머니",
-            "name": "이엄마"
+            "name": "구수과"
           }
         ]
       },
@@ -32,7 +32,7 @@
         ]
       }
     },
-    "eventDetail": "2024년 9월 26일 (목) 17:00\nThe Farmhouse, 285 Ridinger St, Christiansburg, VA 24073The Farmhous"
+    "eventDetail": "2024년 9월 26일 (목) 17:00\nThe Farmhouse, 285 Ridinger St,\nChristiansburg, VA 24073The Farmhous"
   },
   "hostInfo": [
     {

@@ -26,10 +26,10 @@ const FloatingBar = ({ isVisible }: { isVisible: boolean }) => {
   const handleCopy = () => {
     navigator.clipboard.writeText(window.location.href).then(
       () => {
-        alert('주소가 복사되었습니다.😉😉');
+        alert('주소가 복사되었습니다.');
       },
       () => {
-        alert('주소 복사에 실패했습니다.🥲🥲');
+        alert('주소 복사에 실패했습니다.');
       },
     );
   };
@@ -52,15 +52,15 @@ const FloatingBar = ({ isVisible }: { isVisible: boolean }) => {
   return (
     <Nav isVisible={isVisible}>
       <Button onClick={handleCount}>
-        <Heart fill="#e88ca6" />
+        <Heart fill="#445c44" />
         {/*{count || ''}*/}
       </Button>
       <Button onClick={handleCopy}>
-        <Share fill="#e88ca6" />
+        <Share fill="#445c44" />
         공유
       </Button>
       <Button onClick={handleScroll}>
-        <Upward fill="#e88ca6" />
+        <Upward fill="#445c44" />
         위로
       </Button>
     </Nav>
