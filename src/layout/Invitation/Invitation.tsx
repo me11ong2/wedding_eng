@@ -14,9 +14,9 @@ const Invitation = () => {
       {/* TODO: 구글캘린더 추가하기 기능을 넣는다면 링크 수정 */}
       <RoundButton
         target="_blank"
-        href=""
+        href="https://maps.app.goo.gl/Ae4vUfA3RxKuymcCA"
         rel="noreferrer">
-        구글 캘린더 추가하기
+        위치 보기  
       </RoundButton>
     </InvitationWrapper>
   );
