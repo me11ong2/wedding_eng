@@ -35,7 +35,23 @@
     "eventDetail": "Thursday, September 26, 2024, 5:00 PM\n\nThe Farmhouse,\n285 Ridinger St, Christiansburg,\nVA 24073"
   },
   "hostInfo": [
-    
+    {
+      "host": "신부측",
+      "accountInfo": [
+        {
+          "name": "홍기석",
+          "relation": "아버지",
+          "bank": "농협",
+          "account": "123-45-678901"
+        },
+        {
+          "name": "권명자",
+          "relation": "어머니",
+          "bank": "농협",
+          "account": "123-45-678901"
+        }
+      ]
+    }
   ],
   "mapInfo": {
     "address1": "아펠가모 공덕 라로브홀",
