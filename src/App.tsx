@@ -1,7 +1,6 @@
 import { useEffect, useRef, useState } from 'react';
 import { Heading1 } from '@/components/Text.tsx';
 import Wrapper from '@/components/Wrapper.tsx';
-import Account from '@/layout/Account/Account.tsx';
 import Container from '@/layout/Container.tsx';
 import FloatingBar from '@/layout/FloatingBar/FloatingBar.tsx';
 import GalleryWrap from '@/layout/Gallery/GalleryWrap.tsx';
@@ -38,16 +37,12 @@ function App() {
         <Main />
       </Wrapper>
       <Wrapper>
-        <Heading1>모시는 글</Heading1>
+        <Heading1>Letter of Invitation</Heading1>
         <Invitation />
       </Wrapper>
       <Wrapper ref={galleryRef}>
         <Heading1>Gallery</Heading1>
         <GalleryWrap />
-      </Wrapper>
-      <Wrapper>
-        <Heading1>마음 전하실 곳</Heading1>
-        <Account />
       </Wrapper>
       <FloatingBar isVisible={isVisible} />
     </Container>

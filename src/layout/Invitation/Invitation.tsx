@@ -16,7 +16,7 @@ const Invitation = () => {
         target="_blank"
         href="https://maps.app.goo.gl/Ae4vUfA3RxKuymcCA"
         rel="noreferrer">
-        위치 보기  
+        View Location  
       </RoundButton>
     </InvitationWrapper>
   );

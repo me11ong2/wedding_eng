@@ -1,68 +1,51 @@
 {
   "greeting": {
-    "title": "장철유 & 홍운정\n결혼합니다!",
-    "message": "저희 결혼합니다.\n타지에서 학업에 정진하던 두 사람,\n믿음과 신뢰를 바탕으로\n결혼의 결실을 맺고자 합니다.",
+    "title": "Che-Wei & Woonjung\nWe’re getting married!",
+    "message": "Together with their parents and with joyful hearts\ninvite you to share in the happiness\nas they join their lives in marriage\nWith their cute little baby girl👶🏻🎀",
     "host": {
       "groom": {
-        "name": "장철유",
-        "relation": "아들",
+        "name": "Che-Wei 🇹🇼",
+        "relation": "Groom",
         "parents": [
           {
-            "relation": "아버지",
-            "name": "장차현"
+            "relation": "",
+            "name": ""
           },
           {
-            "relation": "어머니",
-            "name": "구수과"
+            "relation": "",
+            "name": ""
           }
         ]
       },
       "bride": {
-        "name": "홍운정",
-        "relation": "딸",
+        "name": "Woonjung 🇰🇷",
+        "relation": "Bride",
         "parents": [
           {
-            "relation": "아버지",
-            "name": "홍기석"
+            "relation": "",
+            "name": ""
           },
           {
-            "relation": "어머니",
-            "name": "권명자"
+            "relation": "",
+            "name": ""
           }
         ]
       }
     },
-    "eventDetail": "2024년 9월 26일 (목) 17:00\n\nThe Farmhouse,\n285 Ridinger St, Christiansburg,\nVA 24073"
+    "eventDetail": "Thursday, September 26, 2024, 5:00 PM\n\nThe Farmhouse,\n285 Ridinger St, Christiansburg,\nVA 24073"
   },
   "hostInfo": [
-    {
-      "host": "신부측",
-      "accountInfo": [
-        {
-          "name": "홍기석",
-          "relation": "아버지",
-          "bank": "신한",
-          "account": "110-347-016722"
-        }
-      ]
-    }
+    
   ],
   "mapInfo": {
-    "address1": "아펠가모 공덕 라로브홀",
-    "address2": "서울 마포구 마포대로 92\n효성해링턴스퀘어 B동 7층\n02-2197-0230",
-    "naverMap": "https://map.naver.com/p/directions/-/14132311.1099497,4514956.9078363,%EC%95%84%ED%8E%A0%EA%B0%80%EB%AA%A8%20%EA%B3%B5%EB%8D%95,1929913788,PLACE_POI/-/transit?c=15.00,0,0,0,dh",
-    "kakaoMap": "https://map.kakao.com/?map_type=TYPE_MAP&target=car&rt=,,489503,1123003&rt1=&rt2=%EC%95%84%ED%8E%A0%EA%B0%80%EB%AA%A8%20%EA%B3%B5%EB%8D%95%EC%A0%90&rtIds=,630786038",
-    "lat": 37.54222,
-    "lon": 126.952708
+    
   },
   "locationInfo": [
     {
-      "title": "\uD83D\uDCCD 지하철",
-      "desc": "\uD83D\uDC49\uD83C\uDFFB 5·6호선 공덕역 7번 출구 (도보 2분)\n\uD83D\uDC49\uD83C\uDFFB 경의·중앙선, 공항철도 공덕역 10번 출구 (도보 30초)"
+      
     },
     {
-      "title": "\uD83D\uDCCD 주차안내",
-      "desc": "\uD83D\uDC49\uD83C\uDFFB 건물 내 3-5층 2시간 무료주차\n(안내데스크에서 주차권 수령)"
+      
     }
   ],
   "emojis": [

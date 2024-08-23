@@ -24,15 +24,15 @@ const HostInfo = ({ person }: { person: BrideAndGroom }) => {
         <>
           {person.parents.map((parent, index) => (
             <React.Fragment key={index}>
-              {index > 0 && ' · '}
+              {index > 0 && ''}
               {parent.name}
             </React.Fragment>
           ))}
         </>
       )}
       <RelationText>
-        <div>의</div>
-        <Relation>{person.relation}</Relation>
+        <div></div>
+        <Relation>{person.relation }</Relation>
       </RelationText>
       <HighlightedName>{person.name}</HighlightedName>
     </HostDetails>
@@ -43,7 +43,7 @@ const HighlightedName = styled.span`
   font-weight: 600;
   font-size: 1.1rem;
   color: #4f4f4f;
-  margin-right: 5px;
+  margin-right: 15px;
 `;
 
 const HostContainer = styled.div`
@@ -65,7 +65,7 @@ const HostDetails = styled.div`
 const RelationText = styled.div`
   font-style: normal;
   line-height: 26px;
-  width: 50px;
+  width: 60px;
   display: flex;
   gap: 6px;
 `;

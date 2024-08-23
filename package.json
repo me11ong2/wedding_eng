@@ -19,7 +19,7 @@
     "eslint-plugin-react": "^7.33.2",
     "firebase": "^10.5.2",
     "js-confetti": "^0.11.0",
-    "photoswipe": "^5.4.2",
+    "photoswipe": "^5.4.4",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-naver-maps": "^0.1.2",
